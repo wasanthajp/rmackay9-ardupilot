@@ -43,7 +43,7 @@ Yuta Yoshinuma
 Yasuyuki Suzuki
 Koji Hosaka
 Mitsuhiro Komiya
-Eduardo Cáceres (eduherminio)
+Eduardo CÃ¡ceres (eduherminio)
 steven test
 Fnoop hello :)
 
@@ -51,3 +51,4 @@ Yuichiro Shibata
 Tsuyoshi Kawamura (retry)
 Natsuki Matsuda
 Isamu Tamura(retry 4)
+wasantha samarathunga
